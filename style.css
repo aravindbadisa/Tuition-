@@ -1,1 +1,37 @@
+/* styles.css */
+
+/* Resetting default margin and padding */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Applying styles to body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Applying styles to headings */
+h1 {
+    color: #333;
+    font-size: 24px;
+}
+
+/* Applying styles to paragraphs */
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Applying styles to links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
 
